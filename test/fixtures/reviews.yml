@@ -1,0 +1,22 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+review_one:
+  product: product_one
+  author_name: "Earl One"
+  rating: 5
+  headline: "COOL BEANS!"
+  body: "This is the body for a rating of 5."
+
+review_two:
+  product: product_three
+  author_name: "Earl Two"
+  rating: 3
+  headline: "So-so BEANS!"
+  body: "This is the body for a rating of 3."
+
+review_three:
+  product: product_three
+  author_name: "Earl Two"
+  rating: 4
+  headline: "So-so BEANS!"
+  body: "This is the body for a rating of 3."

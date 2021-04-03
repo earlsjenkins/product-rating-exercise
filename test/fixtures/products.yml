@@ -1,13 +1,13 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  description: MyString
-  id: MyString
-  : 
+product_one:
+  name: "Product One"
+  description: "This is the first product"
 
-two:
-  name: MyString
-  description: MyString
-  id: MyString
-  : 
+product_two:
+  name: "Product Two"
+  description: "This is the second product"
+
+product_three:
+  name: "Product Three"
+  description: "This is the third product"

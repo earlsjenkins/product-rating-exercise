@@ -25,7 +25,7 @@ The initial api consists of just two operations:
 Please create two new endpoints:
 
 1. Create a review for a given product that has the following properties:
-   - The author of the review, requied.
+   - The author of the review, required.
    - Star rating between 1 and 5 (inclusive), required.
    - The headline text of the review, required.
    - The body text.

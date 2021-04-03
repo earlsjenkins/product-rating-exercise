@@ -1,6 +1,6 @@
 class ProductController < ApplicationController
   def index
-    @products = Product.all
+    @products = Product.best_to_worst.most_recent.all
     json_response(@products)
   end
 
